@@ -5,4 +5,6 @@ To use the script you have to provide 3 arguments as input:
 3. Maximum points for the assignment
 
 Example:
+```bash
 ./src.sh newsubmissionfolder cs320.csv 10
+```
